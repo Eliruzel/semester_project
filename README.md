@@ -1,17 +1,14 @@
-# semester_project
+# SimpleCare Appointment System (Exmaple Project)
 
-A new Flutter project.
+## Summary
+SimpleCare Appointment System is a web-based application designed to help community members schedule and manage appointments more conveniently. It aims to reduce long waiting times, scheduling conflicts, and difficulties with manual appointment booking. The initial features include a Home Screen, Login Screen, and basic navigation, with appointment booking and management planned for future development.
 
-## Getting Started
+## Current Stack
+Flutter Web / Dart; planned REST API and PostgreSQL.
 
-This project is a starting point for a Flutter application.
+## Run Locally
+flutter pub get
+flutter run -d edge
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## First Checkpoint
+Date: October 16, 2026 | Commit: Initial Flutter Web project setup
